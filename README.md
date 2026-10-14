@@ -7,3 +7,5 @@ The Australian Museum view includes KNM-ER 992, KNM-ER 1808, KNM-ER 3733, and KN
 Map key: `*` marks debate over the *H. erectus/H. ergaster* distinction; `†` marks other taxonomic or dating caveats. Age intervals reproduce the supplied classroom figure and are approximate. Downloadable discovery-order and age-order SVG maps are included.
 
 Source: [Australian Museum, *Homo ergaster*](https://australian.museum/learn/science/human-evolution/homo-ergaster/).
+
+© 2026 Natalie M. Susmann. This is for educational purposes only.
