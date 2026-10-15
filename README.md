@@ -4,9 +4,9 @@ Interactive classroom map showing how the fossil record grows as localities are 
 
 The Australian Museum view includes KNM-ER 992, KNM-ER 1808, KNM-ER 3733, and KNM-ER 3883 from Koobi Fora; SK 847 from Swartkrans; Dmanisi fossils; Turkana Boy (KNM-WT 15000) from Nariokotome/West Turkana; and KNM-ER 42700 from Ileret. The slider follows discovery year. KNM-ER 42700 was found in 2000 and described in 2007.
 
-Map key: `*` marks debate over the *H. erectus/H. ergaster* distinction; `†` marks other taxonomic or dating caveats. Age intervals reproduce the supplied classroom figure and are approximate. Downloadable discovery-order and age-order SVG maps are included.
+Map key: `*` marks debate over the *H. erectus/H. ergaster* distinction; `†` marks other taxonomic or dating caveats. Age intervals reproduce the supplied classroom figure and are approximate.
 
-The model comparison is framed as a classroom inquiry into how the [Smithsonian Human Origins Program](https://humanorigins.si.edu/evidence/human-fossils/species/homo-erectus) and the [Australian Museum](https://australian.museum/learn/science/human-evolution/homo-ergaster/) present the *H. erectus/H. ergaster* question. Peer-reviewed references are listed separately in [Bibliographic Sources](bibliography.html).
+The model comparison is framed as a classroom inquiry into how the [Smithsonian Human Origins Program](https://humanorigins.si.edu/evidence/human-fossils/species/homo-erectus) and the [Australian Museum](https://australian.museum/learn/science/human-evolution/homo-ergaster/) present the *H. erectus/H. ergaster* question. Peer-reviewed references are listed separately in [Bibliographic Sources](bibliography.html). This is a classroom teaching tool, not a scholarly reference; consult the bibliography and the [ROAD database](https://www.roceeh.uni-tuebingen.de/roadweb/) for citable sources and data.
 
 Source: [Australian Museum, *Homo ergaster*](https://australian.museum/learn/science/human-evolution/homo-ergaster/).
 
