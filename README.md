@@ -6,6 +6,8 @@ The Australian Museum view includes KNM-ER 992, KNM-ER 1808, KNM-ER 3733, and KN
 
 Map key: `*` marks debate over the *H. erectus/H. ergaster* distinction; `†` marks other taxonomic or dating caveats. Age intervals reproduce the supplied classroom figure and are approximate. Downloadable discovery-order and age-order SVG maps are included.
 
+The model comparison is framed as a classroom inquiry into how the [Smithsonian Human Origins Program](https://humanorigins.si.edu/evidence/human-fossils/species/homo-erectus) and the [Australian Museum](https://australian.museum/learn/science/human-evolution/homo-ergaster/) present the *H. erectus/H. ergaster* question. Peer-reviewed references are listed separately in [Bibliographic Sources](bibliography.html).
+
 Source: [Australian Museum, *Homo ergaster*](https://australian.museum/learn/science/human-evolution/homo-ergaster/).
 
 This page was made as an educational exploratory resource for students in ANTH 5A at Brandeis University. Its primary goal is to explore how presenting *Homo erectus* find spots can produce different narratives when the data are organized by (1) discovery date, (2) specimen age, and (3) different *Homo ergaster* evolutionary models.
