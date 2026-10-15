@@ -8,4 +8,8 @@ Map key: `*` marks debate over the *H. erectus/H. ergaster* distinction; `†` m
 
 Source: [Australian Museum, *Homo ergaster*](https://australian.museum/learn/science/human-evolution/homo-ergaster/).
 
+This page was made as an educational exploratory resource for students in ANTH 5A at Brandeis University. Its primary goal is to explore how presenting *Homo erectus* find spots can produce different narratives when the data are organized by (1) discovery date, (2) specimen age, and (3) different *Homo ergaster* evolutionary models.
+
 © 2026 Natalie M. Susmann. This is for educational purposes only.
+
+Context reading: Kappelman, J. (2018). “An early hominin arrival in Asia.” *Nature* 559, 480–481. [https://doi.org/10.1038/d41586-018-05293-9](https://doi.org/10.1038/d41586-018-05293-9).
